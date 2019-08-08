@@ -15,4 +15,5 @@ end
 
 snoopy = Dog.new
 snoopy.name = "Snoopy"
+puts snoopy.name
 snoopy.bark
